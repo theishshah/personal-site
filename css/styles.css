@@ -19,14 +19,14 @@ body {
   background-color: aliceblue;
 }
 
-#portfolio {
-  height: 600px;
-  background-color: #fff;
+object {
+  height: 100%;
+  width: 100%;
 }
 
 #contact {
-  height:600px;
-  background-color: aliceblue;
+  background-color: #fff;
+  padding-bottom: 10px;
 }
 
 #footer {
