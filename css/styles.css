@@ -1,9 +1,35 @@
-@import url("http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather");
-@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
-h1 {
-  font-size: 2.2rem;
-  color: orange; }
+body {
+  position: relative;
+}
 
-.test {
-  font-size: 1.2rem;
-  color: #2176C7; }
+#home {
+  padding-top:50px;
+  height:600px;
+  color: #000;
+  background-color: #fff;
+  background: url(uiuc.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+#about {
+  height:600px;
+  background-color: aliceblue;
+}
+
+#portfolio {
+  height: 600px;
+  background-color: #fff;
+}
+
+#contact {
+  height:600px;
+  background-color: aliceblue;
+}
+
+#footer {
+  height:50px;
+  background-color: #fff;
+}
