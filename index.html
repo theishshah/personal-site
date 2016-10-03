@@ -1,105 +1,45 @@
 <!DOCTYPE html>
 <html>
-    <head>
-      <title>Ish Shah</title>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-      <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-      <link rel="stylesheet" href="css/styles.css">
-    </head>
-    <body>
-
-        <nav class="navbar navbar-inverse navbar-fixed-top">
-          <div class="container-fluid">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="#">Ish Shah</a>
-            </div>
-            <div>
-              <div class="collapse navbar-collapse" id="myNavbar">
-                <ul class="nav navbar-nav">
-                  <li><a href="#home">Home</a></li>
-                  <li><a href="#about">About</a></li>
-                  <li><a href="#contact">Contact</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </nav>
-
-        <div id="home" class="container-fluid">
-          <center>
-            <h1>Ish Shah</h1>
-            <img src="media/headshot.jpg" class="img-circle" alt="awesome photo of me">
-            <h3>Student - Univeristy of Illinois At Urbana-Champaign</h3>
-          </center>
-        </div>
-        <div id="about" class="container-fluid">
-          <h1>About Me</h1>
-          <p text-align="left">
-            I am currently an undergraduate at the University of Illinois at Urbana Champaign. I am in the College of Engineering studying
-            Computer Science. My goal is to find a niche inbetween technical and non-technical roles and combine both technology and management.
-            <br />
-            I am currently involved with MakerGirl as the Web and Data manager, maintaining the website and storing/analyzing our information.
-            In the past I was an Intern at ZenMango working on data collection, analysis, and presentation, along with event research.
-            <br />
-            My hobbies include skiing, listening to music, and watching too much ESPN for my own good.
-            <br />
-            Please feel free to contact me using any of the methods below.
-          </p>
-          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal" align="center">Resume</button>
-
-            <!-- Modal -->
-            <div class="modal fade" id="myModal" role="dialog">
-              <div class="modal-dialog">
-
-                <!-- Modal content-->
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title">My Resume</h4>
-                  </div>
-                  <div class="modal-body">
-                    <p>Here's a small preview that you can download!</p>
-                    <object data="resume.pdf"></object>
-                  </div>
-                  <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-
-        </div>
-
-        </div>
-        <div id="contact" class="container-fluid">
-
-          <div class="col-sm-6">
-          </div>
-
-          <div class="col-sm-6">
-            <h1>Contact</h1>
-            <h3>
-              LinkedIn: in/theishshah <br />
-              GitHub: theishshah <br />
-              E-Mail: ishshah2@illinois.edu
-            </h3>
-          </div>
-        </div>
-        <div id="footer" class="container-fluid">
-          <center>
-            &copy; Ish Shah 2016
-          </center>
-        </div>
-
-        <script src="js/main.js"></script>
-    </body>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Ish Shah</title>
+	<style>
+		body{
+			margin:1em auto;
+			max-width:40em;
+			padding:0 .62em;
+			font:1.2em/1.62em sans-serif;
+		}
+		h1,h2,h3 {
+			line-height:1.2em;
+		}
+		@media print{
+			body{
+				max-width:none
+			}
+		}
+	</style>
+</head>
+<body>
+	<article>
+		<header>
+			<h1>Hi! My name is Ish.</h1>
+		</header>
+		<section>
+			<h2>Welcome to my humble (web-based) abode</h2>
+			<p>Below are some resources for your convenience</p>
+			<ul>
+				<li><a href="http://www.github.com/theishshah">GitHub</a></li>
+				<li><a href="http://www.linkedin.com/in/theishshah">LinkedIn</a></li>
+				<li><a href="resume.pdf">Resume</a></li>
+			</ul>
+			<p>Now that my shameless self-promotion of my github, linkedin, and resume are over, I would like to thank you for visiting
+			my webpage. I know you are probably super busy and have waaaay better things you could be doing with your time. A little about me:
+			I am a Computer Science major at the University of Illinois. I am originally from Colorado, and I will get abnormally
+			excited if you are too. I love sports with an extreme passion and I would love to talk NFL, NBA, MLB, NHL, and, even NCAA (yes, I am woefully aware that Illinois isn't great at sports).
+			</p>
+		</section>
+	</article>
+</body>
 </html>
