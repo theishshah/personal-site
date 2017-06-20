@@ -71,6 +71,9 @@ a:focus, a:hover {
   color: #f09228;
   text-decoration:none;
 }
+table {
+  table-layout: fixed;
+}
 body,td,th,tr,p,a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
