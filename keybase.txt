@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ishah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ishshah.me
+  * I am ishah (https://keybase.io/ishah) on keybase.
+  * I have a public key ASB-lndh8ObbZmPX-LEsL3ApemwFkwhtrFP0t6iYHxfOvQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010110d46009bb950db44b456bbc41d966a1d0e6e54b4639631060b9a5437b121daa0a",
+            "host": "keybase.io",
+            "kid": "01207e967761f0e6db6663d7f8b12c2f70297a6c0593086dac53f4b7a8981f17cebd0a",
+            "uid": "f8df7039c22cef62271c50584fba1019",
+            "username": "ishah"
+        },
+        "merkle_root": {
+            "ctime": 1498494638,
+            "hash": "b79258ddfbe681da7bb37ffc4c9f7c0ba580a4ff7945fc8579ac29245c0bc031407651383d77099b54b7e7919cbef28179e34e980ce22492949bd3831b61a626",
+            "hash_meta": "41691a89bd66bcf23e7dcf1abd5086205dd5cf7deccfe952e306b924de5597bc",
+            "seqno": 1194324
+        },
+        "service": {
+            "hostname": "ishshah.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1498494644,
+    "expire_in": 504576000,
+    "prev": "b22532811a1324578179b29219b933184aa5fe52264b249926f5434a581368a3",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfpZ3YfDm22Zj1/ixLC9wKXpsBZMIbaxT9LeomB8Xzr0Kp3BheWxvYWTFAz57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTBkNDYwMDliYjk1MGRiNDRiNDU2YmJjNDFkOTY2YTFkMGU2ZTU0YjQ2Mzk2MzEwNjBiOWE1NDM3YjEyMWRhYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2U5Njc3NjFmMGU2ZGI2NjYzZDdmOGIxMmMyZjcwMjk3YTZjMDU5MzA4NmRhYzUzZjRiN2E4OTgxZjE3Y2ViZDBhIiwidWlkIjoiZjhkZjcwMzljMjJjZWY2MjI3MWM1MDU4NGZiYTEwMTkiLCJ1c2VybmFtZSI6ImlzaGFoIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk4NDk0NjM4LCJoYXNoIjoiYjc5MjU4ZGRmYmU2ODFkYTdiYjM3ZmZjNGM5ZjdjMGJhNTgwYTRmZjc5NDVmYzg1NzlhYzI5MjQ1YzBiYzAzMTQwNzY1MTM4M2Q3NzA5OWI1NGI3ZTc5MTljYmVmMjgxNzllMzRlOTgwY2UyMjQ5Mjk0OWJkMzgzMWI2MWE2MjYiLCJoYXNoX21ldGEiOiI0MTY5MWE4OWJkNjZiY2YyM2U3ZGNmMWFiZDUwODYyMDVkZDVjZjdkZWNjZmU5NTJlMzA2YjkyNGRlNTU5N2JjIiwic2Vxbm8iOjExOTQzMjR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiaXNoc2hhaC5tZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE0OTg0OTQ2NDQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYjIyNTMyODExYTEzMjQ1NzgxNzliMjkyMTliOTMzMTg0YWE1ZmU1MjI2NGIyNDk5MjZmNTQzNGE1ODEzNjhhMyIsInNlcW5vIjo1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQOa5cCFc9pegD4cC6jybTzYUDDTSzSf3C+x5ojmq57M2q4YjYTCfD9C5uOD8DaXFDYfR8kafU2DXjktgRhUUmAqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCMQ1buiamuj24j/qqNS6SBDQ7g9Zs+VPpWuROcUzfGlqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ishah
+
+==================================================================
