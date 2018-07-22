@@ -1,4 +1,4 @@
-## This repo is deprecated in favor of hosting my site using [blot](blot.im).
+## This repo is deprecated in favor of hosting my site using [blot](http://blot.im).
 
 # Personal Site
 
